@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Bajiyadav
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+require("dotenv").config();
 
-<!---
-Bajiyadav/Bajiyadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const express = require("express");
+const mysql = require("mysql");
+
+const app = express();
+const port = process.env.PORT || 5000;
+
+// Database connection
+const db = mysql.createConnection({
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: "electricity_bills",
+});
+
+db.connect((err) => {
+  if (err) {
+    console.error("Database connection failed:", err);
+  } else {
+    console.log("Database connected!");
+  }
+});
+
+app.listen(port, () => console.log(`Server running on port ${port}`));
