@@ -2,18 +2,25 @@
 
 # Hi there, I'm Baji Yadav 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Mobile+App+Engineer+(Flutter);Java+%26+Node.js+Backend+Architect;PropTech+%26+Cloud+Systems+Builder" alt="Typing SVG" />
+<a href="https://baji-builds-digital-art.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;Cross-Platform+Mobile+Engineer+(Flutter);Java+21+%26+Spring+Boot+Backend+Architect;GCP+Cloud+Run+%26+PostGIS+Spatial+Builder" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <strong>Passionate Software Engineer specializing in building scalable web applications, cross-platform mobile apps, and robust cloud architectures.</strong>
+  <strong>Full-Stack & Mobile Software Engineer specializing in scalable web systems, production Flutter applications, and high-throughput cloud backends.</strong>
 </p>
 
 <p align="center">
+  <a href="https://baji-builds-digital-art.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-baji--builds--digital--art.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://linkedin.com/in/bajiyadav"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bajibaddela@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Bajiyadav"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="tel:+917569657763"><img src="https://img.shields.io/badge/Call-+91_7569657763-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bajiyadav&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-success?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Education-B.Tech_CSE_(2023--2027)-blueviolet?style=flat-square" alt="Education" />
 </p>
 
 </div>
@@ -22,82 +29,86 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[Seedha Properties](https://github.com/Bajiyadav/property-pioneer-dev)** — a next-generation 0% brokerage direct-owner PropTech platform across Web (React/TanStack SSR), Mobile (Flutter iOS & Android), and Cloud Run (Java 21 Spring Boot + PostGIS).
-- 📱 Proficient in cross-platform mobile engineering with **Flutter & Dart**, delivering 60 FPS performance and responsive architectures.
-- ⚡ Deeply focused on **Core Web Vitals, sub-second edge latency, technical SEO**, and clean domain-driven codebases.
-- ☁️ Experienced with **Google Cloud Platform (Cloud Run, Cloud SQL, GCS, Secret Manager)**, **Docker**, and **Terraform IaC**.
-- 💬 Ask me about **React, Flutter, TypeScript, PostGIS geospatial queries, and API architecture**.
+- 🔭 Architecting **[Seedha Properties](https://github.com/Bajiyadav/property-pioneer-dev)** — a zero-brokerage PropTech platform engineered with React 19 / TanStack Start web frontend, production Flutter iOS & Android apps, and an enterprise Java 21 Spring Boot 3 backend on Google Cloud Run with Cloud SQL (PostGIS 3.4).
+- 📱 Engineering smooth, native-performance mobile applications with **Flutter & Dart**, featuring Riverpod/BLoC state management, reactive caching, and offline synchronization.
+- ⚡ Deeply focused on **clean domain-driven architecture (DDD), sub-second latency, REST API design, and OWASP security standards**.
+- ☁️ Hands-on cloud expertise with **Google Cloud Platform (Cloud Run, Cloud SQL, Memorystore Redis, GCS)**, **Docker**, and **CI/CD automation**.
+- 🎓 Pursuing Bachelor of Technology (B.Tech) in **Computer Science & Engineering** at **GD Goenka University (2023–2027)**.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Technical Arsenal
 
-#### Languages & Core
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-#### Frontend & Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white" alt="Webflow" />
-  <img src="https://img.shields.io/badge/MapLibre_GL-396B9E?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-#### Backend, Cloud & Databases
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PostGIS-139C38?style=flat-square&logo=gis&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
-
-#### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-</p>
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Dart, Java 21, Python, SQL, HTML5/CSS3 |
+| **Frontend** | React 19, Next.js, TanStack Router & Start, Tailwind CSS v4, Lucide, Vite |
+| **Mobile** | Flutter, Dart, Riverpod, BLoC, iOS (Xcode), Android (SDK / Gradle) |
+| **Backend** | Java 21, Spring Boot 3, Node.js, Express, RESTful APIs, Microservices |
+| **Databases** | PostgreSQL 16, PostGIS 3.4, Prisma ORM, Redis, Firebase, Supabase |
+| **Cloud & DevOps** | Google Cloud Platform (Cloud Run, Cloud SQL, GCS), Vercel, Docker, Git, GitHub Actions |
+| **Quality & Security** | Vitest, JUnit 5, OWASP Top 10 hardening, Postman, Power BI |
 
 ---
 
-### 🌟 Featured Highlights
+### 🌟 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏡 <a href="https://github.com/Bajiyadav/property-pioneer-dev">Seedha Properties (Full Stack & Mobile)</a></h4>
-      <p>A high-performance Indian PropTech platform engineered for direct owner-to-tenant transactions with 0% brokerage.</p>
+      <h4>🏡 <a href="https://github.com/Bajiyadav/property-pioneer-dev">Seedha Properties (PropTech Ecosystem)</a></h4>
+      <p>Zero-brokerage real estate platform connecting buyers and tenants directly with property owners.</p>
       <ul>
-        <li><strong>Web</strong>: TanStack Start SSR, React 18, MapLibre OSM.</li>
+        <li><strong>Web</strong>: TanStack Start SSR, React 19, MapLibre OSM with privacy-preserving jittered coordinates.</li>
         <li><strong>Mobile</strong>: Production Flutter app for Android (.aab) & iOS (.ipa) with 170+ automated tests.</li>
-        <li><strong>Backend</strong>: Java 21 / Spring Boot 3 enterprise services & Node.js, PostGIS 3.4 spatial filtering, and GCP Cloud Run.</li>
+        <li><strong>Backend</strong>: Java 21 / Spring Boot 3 enterprise services, Node.js, PostGIS 3.4 spatial filtering, and GCP Cloud Run.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/Bajiyadav/extrute">Extrute Platform</a></h4>
-      <p>Enterprise web platform and career portal built for scale and conversion.</p>
+      <h4>💼 <a href="https://baji-builds-digital-art.vercel.app">Digital Engineering Portfolio</a></h4>
+      <p>Interactive, high-aesthetic personal portfolio with full-viewport workstation background, photo showcase, and live inquiry flows.</p>
       <ul>
-        <li><strong>Stack</strong>: Next.js, TypeScript, Tailwind CSS, Prisma ORM, PostgreSQL.</li>
-        <li><strong>Integrations</strong>: Razorpay payment webhooks, Cloudinary media CDN, and Auth.js session security.</li>
+        <li><strong>Live URL</strong>: <a href="https://baji-builds-digital-art.vercel.app">baji-builds-digital-art.vercel.app</a></li>
+        <li><strong>Stack</strong>: React 19, TanStack Router, Tailwind CSS v4, Nitro Server, Vercel Edge.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://quantum-edge-solutions.vercel.app">Quantum Edge Solutions</a></h4>
+      <p>Enterprise service marketplace platform with automated onboarding workflows, lead tracking, and admin dashboards.</p>
+      <ul>
+        <li><strong>Live URL</strong>: <a href="https://quantum-edge-solutions.vercel.app">quantum-edge-solutions.vercel.app</a></li>
+        <li><strong>Repository</strong>: <a href="https://github.com/Bajiyadav/quantum-edge-solutions">quantum-edge-solutions</a></li>
+        <li><strong>Stack</strong>: Next.js, React, TypeScript, Prisma ORM, PostgreSQL, Tailwind CSS.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/Bajiyadav/Finger-print">Fingerprint Biometric System</a></h4>
+      <p>Biometric security and fingerprint recognition engine using computer vision algorithms for authentication.</p>
+      <ul>
+        <li><strong>Features</strong>: Ridge extraction, minutiae feature matching, and image filtering.</li>
+        <li><strong>Stack</strong>: Python 3, OpenCV, Computer Vision, NumPy.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🥖 <a href="https://houseofbaker.vercel.app/">House of Bakers</a></h4>
+      <p>Modern digital storefront and bakery product presentation platform with responsive e-commerce UX.</p>
+      <ul>
+        <li><strong>Live URL</strong>: <a href="https://houseofbaker.vercel.app/">houseofbaker.vercel.app</a></li>
+        <li><strong>Repository</strong>: <a href="https://github.com/Bajiyadav/House-Of-Bakers">House-Of-Bakers</a></li>
+        <li><strong>Stack</strong>: React, Next.js, Tailwind CSS, Vercel.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🦺 <a href="https://srikanth-safety.vercel.app/">Srikanth Safety Platform</a></h4>
+      <p>Industrial safety training and corporate consultancy portal engineered for enterprise clients.</p>
+      <ul>
+        <li><strong>Live URL</strong>: <a href="https://srikanth-safety.vercel.app/">srikanth-safety.vercel.app</a></li>
+        <li><strong>Repository</strong>: <a href="https://github.com/Bajiyadav/srikanth-safety-is">srikanth-safety-is</a></li>
+        <li><strong>Stack</strong>: Next.js, Tailwind CSS, Vercel.</li>
       </ul>
     </td>
   </tr>
@@ -105,19 +116,16 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bajiyadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bajiyadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bajiyadav&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="GitHub Streak" />
+  <a href="https://github.com/Bajiyadav">
+    <img src="https://streak-stats.demolab.com/?user=Bajiyadav&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="175" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed & built with care by <strong>Baji Yadav</strong>. Open to exciting full-stack, mobile engineering & contract opportunities.</sub>
+  <sub>Engineered with care by <strong>Baji Yadav</strong>. Open to exciting full-stack, mobile engineering & contract opportunities.</sub>
 </div>
