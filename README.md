@@ -26,11 +26,10 @@
 
 <!-- Quick Navigation Anchors -->
 <p align="center">
+  <a href="#-about-me"><b>🚀 About Me</b></a> •
   <a href="#-technical-arsenal"><b>🛠️ Tech Arsenal</b></a> •
   <a href="#-project-ecosystem-graph"><b>🌐 Ecosystem Graph</b></a> •
-  <a href="#-flagship--high-impact-systems"><b>🏆 Flagship Systems</b></a> •
-  <a href="#-enterprise-saas-fintech--b2b-platforms"><b>🏢 Enterprise SaaS</b></a> •
-  <a href="#-security-computer-vision--cryptography"><b>🛡️ Security & AI</b></a> •
+  <a href="#-featured-projects"><b>🌟 Featured Projects</b></a> •
   <a href="#-master-project-directory"><b>📋 All Projects Index</b></a> •
   <a href="#-github-activity-contribution-graph--analytics"><b>📊 Analytics</b></a>
 </p>
@@ -48,13 +47,55 @@
 
 ### 🚀 About Me
 
-- 🌍 Architecting **[ClimateChain AI](https://github.com/Bajiyadav/climatechain-ai)** — an autonomous climate intelligence engine uniting **Isolation Forest ML Oracles** with **ERC-1155 Smart Contracts** for zero double-counting carbon credit verification and P2P microgrid energy trading (IEEE ClimateChain Global Hackathon 2026).
-- 🔭 Engineering **[Seedha Properties](https://github.com/Bajiyadav/property-pioneer-dev)** — a zero-brokerage PropTech ecosystem built with React 19 / TanStack Start, production Flutter iOS & Android apps, and an enterprise Java 21 Spring Boot 3 backend on Google Cloud Run with Cloud SQL (PostGIS 3.4).
-- 🤖 Building **[AuditAgent.ai](https://github.com/Bajiyadav/Agentic.Ai)** & **[PayPal AI Agent](https://github.com/Bajiyadav/paypal-ai-agent)** — specialized autonomous agents for technical hiring screening and conversational financial transaction processing.
-- 📱 Developing fluid, native-performance mobile applications with **Flutter & Dart**, featuring Riverpod/BLoC state management, reactive offline caching, and clean DDD architecture.
-- ⚡ Focused on **high throughput, sub-second latency, REST & GraphQL API design, spatial indexing, and OWASP Top 10 security hardening**.
-- ☁️ Production cloud experience with **Google Cloud Platform (Cloud Run, Cloud SQL, Memorystore Redis, GCS)**, **Docker**, and **GitHub Actions CI/CD**.
-- 🎓 Pursuing Bachelor of Technology (B.Tech) in **Computer Science & Engineering** at **GD Goenka University (2023–2027)**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Engineering Identity & Vision</h3>
+      <p>
+        I'm <strong>Baji Yadav</strong>, a Full-Stack, Mobile, and Distributed Systems Engineer pursuing my B.Tech in CSE at <strong>GD Goenka University (2023–2027)</strong>. I specialize in designing and shipping production-grade architectures that unite clean domain-driven code with sub-second execution speed.
+      </p>
+      <p>
+        My work spans from building <strong>zero-brokerage spatial PropTech platforms</strong> with native Flutter mobile apps and Java 21 Spring Boot microservices on Google Cloud, to architecting <strong>autonomous AI verification oracles</strong> with ERC-1155 smart contracts for Paris Agreement carbon accounting.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Specialization-Full--Stack_%26_Mobile_Systems-0284c7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-DDD_%26_Microservices-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-High--Throughput_Cloud-success?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Core Engineering Philosophy</h3>
+      <ul>
+        <li><strong>Sub-Second Latency by Default</strong>: Optimizing queries via PostGIS 3.4 spatial indices, connection pooling, and multi-tier in-memory Redis caching.</li>
+        <li><strong>Native 60fps Mobile Fluidity</strong>: Engineering cross-platform Flutter iOS & Android apps with Riverpod/BLoC state machines and offline-first persistence.</li>
+        <li><strong>Zero Compromise Type-Safety</strong>: Leveraging TypeScript strict mode, Java 21 LTS virtual threads, and Solidity invariant assertions.</li>
+        <li><strong>Autonomous AI Pipelines</strong>: Embedding ML anomaly detectors (Isolation Forests) and LLMs (Gemini 2.5 Flash) directly into transactional backend workflows.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📍 Current Active Initiatives</h3>
+      <ul>
+        <li>🌍 <strong>Decarbonization & Web3</strong>: Finalizing <strong><a href="https://github.com/Bajiyadav/climatechain-ai">ClimateChain AI</a></strong> for the <strong>IEEE ClimateChain Global Hackathon 2026</strong>.</li>
+        <li>🏡 <strong>PropTech Scale</strong>: Scaling <strong><a href="https://github.com/Bajiyadav/property-pioneer-dev">Seedha Properties</a></strong> with production Android (.aab) & iOS (.ipa) builds on Google Cloud Run.</li>
+        <li>🤖 <strong>Autonomous Agents</strong>: Engineering <strong><a href="https://github.com/Bajiyadav/Agentic.Ai">AuditAgent.ai</a></strong> for automated technical hiring screening through candidate code evidence analysis.</li>
+        <li>📱 <strong>Client Solutions</strong>: Delivering commercial SaaS and e-commerce platforms (Extrute, Shree Gopi Traders, Screenplay).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Snapshot & Direct Contact</h3>
+      <ul>
+        <li>🏛️ <strong>Degree</strong>: B.Tech in Computer Science & Engineering (2023–2027)</li>
+        <li>📍 <strong>Location</strong>: India • Open to Global & Remote Opportunities</li>
+        <li>💼 <strong>Role Types</strong>: Full-Stack Engineer • Mobile Architect • Backend Specialist</li>
+        <li>💬 <strong>Email</strong>: <a href="mailto:bajibaddela@gmail.com">bajibaddela@gmail.com</a></li>
+        <li>📱 <strong>Direct / WhatsApp</strong>: <a href="tel:+917569657763">+91 7569657763</a></li>
+        <li>🌐 <strong>Portfolio</strong>: <a href="https://baji-builds-digital-art.vercel.app">baji-builds-digital-art.vercel.app</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -202,248 +243,172 @@ flowchart TD
 
 ---
 
-### 🏆 Flagship & High-Impact Systems
+### 🌟 Featured Projects
 
-<table>
+<table width="100%">
+  <!-- Featured Project 1: ClimateChain AI -->
   <tr>
     <td width="50%" valign="top">
-      <h4>🌍 <a href="https://github.com/Bajiyadav/climatechain-ai">ClimateChain AI</a> <sub>IEEE Global Hackathon 2026</sub></h4>
-      <p>Autonomous Decentralized Carbon MRV Oracle & P2P Renewable Energy Trading Microgrid.</p>
+      <div align="center">
+        <h3>🌍 <a href="https://github.com/Bajiyadav/climatechain-ai">ClimateChain AI</a></h3>
+        <p>
+          <img src="https://img.shields.io/badge/IEEE_Global_Hackathon-2026-blueviolet?style=for-the-badge&logo=ieee&logoColor=white" />
+          <img src="https://img.shields.io/badge/Status-Active_Contender-0284c7?style=for-the-badge" />
+        </p>
+      </div>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Solidity_ERC1155-363636?style=flat-square&logo=solidity&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_2.5-8E75C2?style=flat-square&logo=google&logoColor=white" />
+        <a href="https://github.com/Bajiyadav/climatechain-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=climatechain-ai&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="ClimateChain AI Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>Autonomous Decentralized Carbon MRV Oracle & P2P Renewable Energy Trading Microgrid</strong> built to eliminate carbon credit fraud and empower local clean energy trading under Paris Agreement Article 6.
       </p>
       <ul>
-        <li><strong>AI MRV Cyber-Shield</strong>: Isolation Forest anomaly detector intercepting sensor spoofing & fraudulent solar claims prior to minting.</li>
-        <li><strong>Zero Double-Counting</strong>: Non-reversible ERC-1155 burn state machine preventing duplicate retirements under Paris Agreement Art. 6.</li>
-        <li><strong>P2P Microgrid AMM</strong>: Automated market-clearing tariff balancing solar surplus with 34.4% consumer energy savings.</li>
+        <li>🧠 <strong>AI MRV Cyber-Shield</strong>: Scikit-Learn Isolation Forest machine learning model detecting sensor anomalies and spoofed solar claims before minting.</li>
+        <li>⛓️ <strong>Zero Double-Counting</strong>: Non-reversible ERC-1155 burn state machine preventing duplicate retirements across global ESG registries.</li>
+        <li>⚡ <strong>P2P Microgrid AMM</strong>: Automated market-clearing tariff curve balancing solar battery surplus with 34.4% consumer energy savings.</li>
+        <li>🤖 <strong>Gemini 2.5 Audit Oracle</strong>: Multimodal synthetic reasoning verifying real-time IoT grid health and regulatory compliance.</li>
       </ul>
-      <p>
-        <a href="https://github.com/Bajiyadav/climatechain-ai"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Status-Active_Hackathon-0284c7?style=flat-square" />
+      <p align="center">
+        <a href="https://github.com/Bajiyadav/climatechain-ai"><img src="https://img.shields.io/badge/GitHub-climatechain--ai-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
+    <!-- Featured Project 2: Seedha Properties -->
     <td width="50%" valign="top">
-      <h4>🏡 <a href="https://github.com/Bajiyadav/property-pioneer-dev">Seedha Properties</a> <sub>PropTech Ecosystem</sub></h4>
-      <p>Zero-brokerage real estate platform connecting buyers and tenants directly with property owners.</p>
+      <div align="center">
+        <h3>🏡 <a href="https://github.com/Bajiyadav/property-pioneer-dev">Seedha Properties</a></h3>
+        <p>
+          <img src="https://img.shields.io/badge/PropTech_Ecosystem-Production-success?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Mobile_%2B_Cloud-Multiplatform-02569B?style=for-the-badge" />
+        </p>
+      </div>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java_21_Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_19_TanStack-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostGIS_3.4-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <a href="https://github.com/Bajiyadav/property-pioneer-dev">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=property-pioneer-dev&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Seedha Properties Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>Zero-brokerage Indian PropTech platform</strong> directly connecting verified buyers, tenants, and property owners with sub-second spatial discovery and multiplatform mobile applications.
       </p>
       <ul>
-        <li><strong>Multiplatform Mobile</strong>: Production Flutter app for Android (.aab) & iOS (.ipa) with Riverpod, reactive caching, and 170+ automated tests.</li>
-        <li><strong>Spatial Web App</strong>: TanStack Start SSR with MapLibre OSM privacy-jittered coordinates.</li>
-        <li><strong>Enterprise Backend</strong>: Java 21 Spring Boot 3 DDD architecture deployed on Google Cloud Run with PostGIS spatial bounding queries.</li>
+        <li>📱 <strong>Production Flutter Mobile App</strong>: Production-ready Android (.aab) & iOS (.ipa) builds with Riverpod, offline caching, and 170+ automated tests.</li>
+        <li>⚙️ <strong>Java 21 Spring Boot 3 Backend</strong>: Enterprise Domain-Driven Design (DDD) deployed on Google Cloud Run with HikariCP connection pooling.</li>
+        <li>🗺️ <strong>PostGIS 3.4 Spatial Indexing</strong>: Sub-second geospatial radius and bounding-box queries over millions of coordinates.</li>
+        <li>🌐 <strong>Modern Web App</strong>: TanStack Start SSR web client featuring MapLibre OSM privacy-jittered coordinates.</li>
       </ul>
-      <p>
-        <a href="https://github.com/Bajiyadav/property-pioneer-dev"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=flat-square" />
+      <p align="center">
+        <a href="https://github.com/Bajiyadav/property-pioneer-dev"><img src="https://img.shields.io/badge/GitHub-property--pioneer--dev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
+  <!-- Featured Project 3: AuditAgent.ai -->
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/Bajiyadav/Agentic.Ai">AuditAgent.ai</a> <sub>Enterprise AI Agent</sub></h4>
-      <p>Autonomous AI Technical Hiring & Candidate Code Evidence Screening Platform.</p>
+      <div align="center">
+        <h3>🤖 <a href="https://github.com/Bajiyadav/Agentic.Ai">AuditAgent.ai</a></h3>
+        <p>
+          <img src="https://img.shields.io/badge/Enterprise_AI-Autonomous_Agent-8E75C2?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Hiring_Intelligence-Production-success?style=for-the-badge" />
+        </p>
+      </div>
       <p>
-        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Agents-8E75C2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <a href="https://github.com/Bajiyadav/Agentic.Ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=Agentic.Ai&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="AuditAgent.ai Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>Enterprise Autonomous AI Technical Hiring & Candidate Code Evidence Screening Platform</strong> designed to automate deep repository auditing and eliminate resume inflation.
       </p>
       <ul>
-        <li><strong>Code Evidence Verification</strong>: Evaluates repository quality, architecture adherence, and real contributor authentic patterns.</li>
-        <li><strong>Automated Candidate Auditing</strong>: Generates deep technical assessments and interview cheat-sheets for engineering managers.</li>
+        <li>🔍 <strong>Code Evidence Auditing</strong>: Analyzes candidate GitHub repositories for architectural cleanliness, commit history authenticity, and test coverage.</li>
+        <li>📊 <strong>Synthetic Interview Reports</strong>: Generates customized technical questioning guides for engineering managers based on actual code strengths and gaps.</li>
+        <li>🐳 <strong>Dockerized Sandbox</strong>: Isolates and analyzes untrusted candidate code repositories safely within containerized runtimes.</li>
       </ul>
-      <p>
-        <a href="https://github.com/Bajiyadav/Agentic.Ai"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+      <p align="center">
+        <a href="https://github.com/Bajiyadav/Agentic.Ai"><img src="https://img.shields.io/badge/GitHub-Agentic.Ai-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
+    <!-- Featured Project 4: Extrute Platform -->
     <td width="50%" valign="top">
-      <h4>💳 <a href="https://github.com/Bajiyadav/paypal-ai-agent">PayPal AI Agent & FinTech Bot</a></h4>
-      <p>Conversational payment intelligence engine for automated transaction workflows and checkout queries.</p>
+      <div align="center">
+        <h3>🚀 <a href="https://github.com/Bajiyadav/extrute">Extrute Enterprise Platform</a></h3>
+        <p>
+          <img src="https://img.shields.io/badge/Enterprise_Client-Commercial-purple?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/FinTech-Razorpay_Live-0C2340?style=for-the-badge" />
+        </p>
+      </div>
       <p>
-        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/PayPal_API-00457C?style=flat-square&logo=paypal&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <a href="https://github.com/Bajiyadav/extrute">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=extrute&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Extrute Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>Official commercial platform & career portal for Extrute</strong>, architected for high volume applicant screening, payment processing, and corporate administration.
       </p>
       <ul>
-        <li><strong>Smart Transaction Assistant</strong>: Parses conversational natural language into secure structured payment intents.</li>
-        <li><strong>Webhooks & Status Audits</strong>: Real-time verification of payment settlement state transitions.</li>
+        <li>💳 <strong>Razorpay Payment Gateway</strong>: End-to-end transactional checkout for commercial candidate assessments and program enrollments.</li>
+        <li>🔐 <strong>Auth.js & RBAC</strong>: Multi-role authentication with protected recruiter portals and candidate application dashboards.</li>
+        <li>🗄️ <strong>PostgreSQL & Prisma ORM</strong>: Fully type-safe relational schema with automated migrations and connection optimization.</li>
+        <li>☁️ <strong>Cloudinary Media Engine</strong>: Automated resume PDF parsing, asset compression, and secure CDN delivery.</li>
       </ul>
-      <p>
-        <a href="https://github.com/Bajiyadav/paypal-ai-agent"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Status-Open_Source-blue?style=flat-square" />
+      <p align="center">
+        <a href="https://github.com/Bajiyadav/extrute"><img src="https://img.shields.io/badge/GitHub-extrute-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
-</table>
-
----
-
-### 🏢 Enterprise SaaS, FinTech & B2B Platforms
-
-<table>
+  <!-- Featured Project 5: Shree Gopi Traders & Quantum Edge -->
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 <a href="https://github.com/Bajiyadav/extrute">Extrute Enterprise Platform</a></h4>
-      <p>Official commercial website & career platform for Extrute with dynamic job applications and payment gateways.</p>
+      <div align="center">
+        <h3>💈 <a href="https://github.com/Bajiyadav/shree-gopi-traders">Shree Gopi Traders</a></h3>
+        <p>
+          <img src="https://img.shields.io/badge/B2B_Commerce-Wholesale-00E599?style=for-the-badge&logo=postgresql&logoColor=black" />
+          <img src="https://img.shields.io/badge/Next.js_15-Serverless-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        </p>
+      </div>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma_PostgreSQL-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Razorpay-0C2340?style=flat-square&logo=razorpay&logoColor=white" />
+        <a href="https://github.com/Bajiyadav/shree-gopi-traders">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=shree-gopi-traders&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Shree Gopi Traders Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>B2B salon and parlour materials supply procurement platform</strong> built with Next.js 15 and serverless Neon PostgreSQL for high-volume wholesale order fulfillment.
       </p>
       <ul>
-        <li>Auth.js authentication and role-based administration dashboard.</li>
-        <li>Razorpay integration for transaction handling & Cloudinary asset optimization.</li>
+        <li>📦 <strong>Tiered B2B Pricing</strong>: Dynamic bulk price calculation engine based on order quantity and business volume.</li>
+        <li>⚡ <strong>Serverless Neon PostgreSQL</strong>: Instant auto-scaling connection pooling with Prisma ORM type safety.</li>
+        <li>🎨 <strong>Modern UX</strong>: Real-time search, category filtering, and instant dispatch tracking.</li>
       </ul>
-      <p>
-        <a href="https://github.com/Bajiyadav/extrute"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Type-Enterprise_Client-purple?style=flat-square" />
+      <p align="center">
+        <a href="https://github.com/Bajiyadav/shree-gopi-traders"><img src="https://img.shields.io/badge/GitHub-shree--gopi--traders-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
+    <!-- Featured Project 6: Fingerprint Biometrics & Steganography -->
     <td width="50%" valign="top">
-      <h4>💈 <a href="https://github.com/Bajiyadav/shree-gopi-traders">Shree Gopi Traders (B2B)</a></h4>
-      <p>B2B salon and parlour supply procurement portal with inventory management and bulk dispatch tracking.</p>
+      <div align="center">
+        <h3>🛡️ <a href="https://github.com/Bajiyadav/Finger-print">Biometric Vision & Cryptography</a></h3>
+        <p>
+          <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+          <img src="https://img.shields.io/badge/Cybersecurity-Steganography-FF6F00?style=for-the-badge" />
+        </p>
+      </div>
       <p>
-        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black" />
-        <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <a href="https://github.com/Bajiyadav/Finger-print">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=Finger-print&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Fingerprint Repo" />
+        </a>
+      </p>
+      <p>
+        <strong>Computer vision biometric verification suite & dual-layer image steganography cryptographic engine</strong> engineered in Python 3.
       </p>
       <ul>
-        <li>Wholesale catalog browsing with dynamic multi-tier volume pricing.</li>
-        <li>Serverless Neon PostgreSQL integration with instant connection pooling.</li>
+        <li>🔬 <strong>Ridge & Minutiae Extraction</strong>: Gabor filtering and crossing-number algorithms detecting ridge bifurcations and endings.</li>
+        <li>🔐 <strong>Dual-Layer Steganography</strong>: Combines XOR key obfuscation with Least Significant Bit (LSB) carrier injection for covert message transmission.</li>
+        <li>⚡ <strong>Lossless Bit Fidelity</strong>: Preserves host image visual entropy while ensuring deterministic payload recovery.</li>
       </ul>
-      <p>
-        <a href="https://github.com/Bajiyadav/shree-gopi-traders"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://quantum-edge-solutions.vercel.app">Quantum Edge Solutions</a></h4>
-      <p>Enterprise service marketplace platform with automated onboarding workflows and administrative dashboards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://quantum-edge-solutions.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-quantum--edge--solutions-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/Bajiyadav/quantum-edge-solutions"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎬 <a href="https://github.com/Bajiyadav/screenplay-private-theatres">Screenplay Private Theatres</a></h4>
-      <p>Luxury private theater experience booking engine with slot reservation, dynamic pricing, and preview showcase.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Bajiyadav/screenplay-private-theatres"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💼 <a href="https://baji-builds-digital-art.vercel.app">Digital Engineering Portfolio</a></h4>
-      <p>Interactive personal portfolio with full-viewport workstation background, photo showcase, and live client inquiry flows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://baji-builds-digital-art.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-baji--builds--digital--art-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎪 <a href="https://github.com/Bajiyadav/trippysmehfill1">Trippy's Mehfill Platform</a></h4>
-      <p>Curated social experiences, private event scheduling, and community gathering ticketing platform.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Bajiyadav/trippysmehfill1"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛡️ Security, Computer Vision & Cryptography
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Bajiyadav/Finger-print">Fingerprint Biometric Recognition</a></h4>
-      <p>Biometric authentication engine utilizing computer vision for ridge extraction and minutiae matching.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      </p>
-      <ul>
-        <li>Gabor filtering and orientation field estimation.</li>
-        <li>Crossing number minutiae extraction algorithm (ridge bifurcation & endings).</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Bajiyadav/Finger-print"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔐 <a href="https://github.com/Bajiyadav/stegno">Steganography Cryptography Suite</a></h4>
-      <p>Python desktop application for covert message embedding inside images using XOR and LSB bit manipulation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cryptography-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tkinter_GUI-3776AB?style=flat-square" />
-      </p>
-      <ul>
-        <li>XOR key-based payload scrambling combined with Least Significant Bit injection.</li>
-        <li>Lossless extraction preserving host carrier image visual fidelity.</li>
-      </ul>
-      <p>
-        <a href="https://github.com/Bajiyadav/stegno"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎯 <a href="https://github.com/Bajiyadav/attack-canvas-central">Attack Canvas Central</a></h4>
-      <p>Interactive threat modeling and visual cybersecurity attack graph simulation platform.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/SecOps-E11D48?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Bajiyadav/attack-canvas-central"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🦺 <a href="https://srikanth-safety.vercel.app/">Srikanth Safety Platform</a></h4>
-      <p>Corporate industrial safety training and environmental consultancy portal for industrial client onboarding.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://srikanth-safety.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-srikanth--safety-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/Bajiyadav/srikanth-safety-is"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <p align="center">
+        <a href="https://github.com/Bajiyadav/Finger-print"><img src="https://img.shields.io/badge/GitHub-Finger--print-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://github.com/Bajiyadav/stegno"><img src="https://img.shields.io/badge/GitHub-stegno-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
