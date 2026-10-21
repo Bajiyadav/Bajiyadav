@@ -47,16 +47,98 @@
 
 ### 🛠️ Technical Arsenal
 
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Dart, Java 21, Python, Solidity, SQL, HTML5/CSS3 |
-| **Frontend** | React 19, Next.js, TanStack Router & Start, Tailwind CSS v4, Lucide Icons, Vite |
-| **Mobile** | Flutter, Dart, Riverpod, BLoC, iOS (Xcode), Android (SDK / Gradle) |
-| **Backend & Web3** | Java 21, Spring Boot 3, FastAPI, Node.js, Express, EVM Smart Contracts (ERC-1155) |
-| **AI & ML** | Scikit-Learn (Isolation Forest), Google Gemini 2.5 Flash, OpenCV, NumPy |
-| **Databases** | PostgreSQL 16, PostGIS 3.4, Prisma ORM, Redis, Firebase, Supabase |
-| **Cloud & DevOps** | Google Cloud Platform (Cloud Run, Cloud SQL, GCS), Vercel, Docker, Git, GitHub Actions |
-| **Quality & Security** | Vitest, JUnit 5, Pytest, OWASP Top 10 hardening, Postman, Power BI |
+```mermaid
+flowchart TD
+    TA["🛠️ <b>TECHNICAL ARSENAL</b><br/><i>Core Engineering & Systems Competencies</i>"]
+
+    TA --> L["🔤 <b>Languages & Core</b>"]
+    TA --> FM["📱 <b>Frontend & Mobile</b>"]
+    TA --> BC["⚙️ <b>Backend, Cloud & Web3</b>"]
+    TA --> DA["🧠 <b>Data, AI & Reliability</b>"]
+
+    L --> L1["TypeScript & JavaScript (ESNext)"]
+    L --> L2["Dart (Flutter Engine)"]
+    L --> L3["Java 21 (LTS) & Python 3.12+"]
+    L --> L4["Solidity (EVM / ERC-1155)"]
+
+    FM --> FM1["React 19 & Next.js 15 (SSR / App Router)"]
+    FM --> FM2["Flutter (Riverpod / BLoC Multiplatform)"]
+    FM --> FM3["TanStack Start, Router & Query"]
+    FM --> FM4["Tailwind CSS v4 & Lucide Icons"]
+
+    BC --> BC1["Spring Boot 3 Microservices"]
+    BC --> BC2["FastAPI Async REST & Node.js Express"]
+    BC --> BC3["Google Cloud Platform (Cloud Run, Cloud SQL)"]
+    BC --> BC4["Docker Containers & GitHub Actions CI/CD"]
+
+    DA --> DA1["PostgreSQL 16 & PostGIS 3.4 Spatial"]
+    DA --> DA2["Redis In-Memory Caching & Prisma ORM"]
+    DA --> DA3["Google Gemini 2.5 Flash & Scikit-Learn ML"]
+    DA --> DA4["OWASP Top 10 Hardening & Pytest / JUnit 5"]
+
+    classDef header fill:#0284c7,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
+    classDef category fill:#0f172a,stroke:#38bdf8,stroke-width:1.5px,color:#38bdf8;
+    classDef leaf fill:#1e293b,stroke:#475569,stroke-width:1px,color:#e2e8f0;
+
+    class TA header;
+    class L,FM,BC,DA category;
+    class L1,L2,L3,L4,FM1,FM2,FM3,FM4,BC1,BC2,BC3,BC4,DA1,DA2,DA3,DA4 leaf;
+```
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔤 Languages & Core Engine</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,js,dart,java,py,solidity,html,css" alt="Languages" />
+      </p>
+      <ul>
+        <li><strong>TypeScript / JavaScript</strong>: Advanced async patterns, type-safety, ESNext.</li>
+        <li><strong>Dart & Flutter</strong>: Native iOS & Android compilation, custom render objects.</li>
+        <li><strong>Java 21 & Python</strong>: Enterprise microservices, ML pipelines, virtual threads.</li>
+        <li><strong>Solidity</strong>: ERC-1155 multi-token contracts, atomic escrows & burn locks.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Frontend & Mobile Engineering</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite" alt="Frontend & Mobile" />
+      </p>
+      <ul>
+        <li><strong>React 19 & Next.js 15</strong>: Server actions, streaming SSR, edge rendering.</li>
+        <li><strong>Flutter</strong>: Clean architecture with Riverpod & BLoC state management.</li>
+        <li><strong>TanStack Ecosystem</strong>: TanStack Start, Router, Table, and Query.</li>
+        <li><strong>Tailwind CSS v4 & Vite</strong>: High-aesthetic modern UI & sub-second HMR.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend, Cloud & Distributed Systems</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,gcp,docker" alt="Backend & Cloud" />
+      </p>
+      <ul>
+        <li><strong>Spring Boot 3 & Java 21</strong>: Enterprise DDD architectures, JPA/Hibernate.</li>
+        <li><strong>FastAPI & Node.js</strong>: High-throughput async REST microservices.</li>
+        <li><strong>Google Cloud Platform</strong>: Cloud Run, Cloud SQL, Memorystore Redis, GCS.</li>
+        <li><strong>DevOps</strong>: Docker containerization, multi-stage builds, GitHub Actions.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Data, AI & Quality Engineering</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,redis,prisma,firebase,supabase,postman,git" alt="Data & AI" />
+      </p>
+      <ul>
+        <li><strong>PostgreSQL 16 & PostGIS 3.4</strong>: Geo-spatial queries, spatial indexing.</li>
+        <li><strong>Redis & Prisma ORM</strong>: In-memory distributed caching, type-safe queries.</li>
+        <li><strong>AI & ML</strong>: Google Gemini 2.5 Flash, Scikit-Learn Isolation Forest, OpenCV.</li>
+        <li><strong>Testing & Security</strong>: Vitest, JUnit 5, Pytest, Postman, OWASP Top 10 hardening.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
