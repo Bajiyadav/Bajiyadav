@@ -453,6 +453,17 @@ flowchart TD
 
 <br/>
 
+<!-- Contribution Grid Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bajiyadav/Bajiyadav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bajiyadav/Bajiyadav/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Bajiyadav/Bajiyadav/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
 <!-- 2. Repositories and Most Committed Languages -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bajiyadav&theme=tokyonight" width="49%" alt="Repos per Language" />
