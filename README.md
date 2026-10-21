@@ -329,35 +329,35 @@ flowchart TD
         <a href="https://github.com/Bajiyadav/Agentic.Ai"><img src="https://img.shields.io/badge/GitHub-Agentic.Ai-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
-    <!-- Featured Project 4: Extrute Platform -->
+    <!-- Featured Project 4: Quantum Edge Solutions -->
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🚀 <a href="https://github.com/Bajiyadav/extrute">Extrute Enterprise Platform</a></h3>
+        <h3>⚡ <a href="https://github.com/Bajiyadav/quantum-edge-solutions">Quantum Edge Solutions</a></h3>
         <p>
-          <img src="https://img.shields.io/badge/Enterprise_Client-Commercial-purple?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/FinTech-Razorpay_Live-0C2340?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Enterprise_SaaS-Marketplace-purple?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" />
         </p>
       </div>
       <p>
-        <a href="https://github.com/Bajiyadav/extrute">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=extrute&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Extrute Repo" />
+        <a href="https://github.com/Bajiyadav/quantum-edge-solutions">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=quantum-edge-solutions&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Quantum Edge Solutions Repo" />
         </a>
       </p>
       <p>
-        <strong>Official commercial platform & career portal for Extrute</strong>, architected for high volume applicant screening, payment processing, and corporate administration.
+        <strong>Enterprise service marketplace & client workflow engine</strong> engineered with Next.js, TypeScript, and Prisma ORM for seamless client onboarding and project tracking.
       </p>
       <ul>
-        <li>💳 <strong>Razorpay Payment Gateway</strong>: End-to-end transactional checkout for commercial candidate assessments and program enrollments.</li>
-        <li>🔐 <strong>Auth.js & RBAC</strong>: Multi-role authentication with protected recruiter portals and candidate application dashboards.</li>
-        <li>🗄️ <strong>PostgreSQL & Prisma ORM</strong>: Fully type-safe relational schema with automated migrations and connection optimization.</li>
-        <li>☁️ <strong>Cloudinary Media Engine</strong>: Automated resume PDF parsing, asset compression, and secure CDN delivery.</li>
+        <li>⚡ <strong>Next.js & TypeScript</strong>: Strictly typed server components with high-speed page loads.</li>
+        <li>🔐 <strong>Enterprise Workflows</strong>: Client inquiry routing, administrative dashboards, and automated lead management.</li>
+        <li>🗄️ <strong>PostgreSQL & Prisma ORM</strong>: Automated database schema migrations and optimized relation queries.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Bajiyadav/extrute"><img src="https://img.shields.io/badge/GitHub-extrute-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://quantum-edge-solutions.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-quantum--edge--solutions-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/Bajiyadav/quantum-edge-solutions"><img src="https://img.shields.io/badge/GitHub-quantum--edge--solutions-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
-  <!-- Featured Project 5: Shree Gopi Traders & Quantum Edge -->
+  <!-- Featured Project 5: Shree Gopi Traders & Stegano -->
   <tr>
     <td width="50%" valign="top">
       <div align="center">
@@ -384,30 +384,29 @@ flowchart TD
         <a href="https://github.com/Bajiyadav/shree-gopi-traders"><img src="https://img.shields.io/badge/GitHub-shree--gopi--traders-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
-    <!-- Featured Project 6: Fingerprint Biometrics & Steganography -->
+    <!-- Featured Project 6: Steganography Suite -->
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🛡️ <a href="https://github.com/Bajiyadav/Finger-print">Biometric Vision & Cryptography</a></h3>
+        <h3>🔐 <a href="https://github.com/Bajiyadav/stegno">Steganography Suite</a></h3>
         <p>
-          <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
           <img src="https://img.shields.io/badge/Cybersecurity-Steganography-FF6F00?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Python_3-Tkinter_GUI-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         </p>
       </div>
       <p>
-        <a href="https://github.com/Bajiyadav/Finger-print">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=Finger-print&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Fingerprint Repo" />
+        <a href="https://github.com/Bajiyadav/stegno">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bajiyadav&repo=stegno&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" alt="Stegano Repo" />
         </a>
       </p>
       <p>
-        <strong>Computer vision biometric verification suite & dual-layer image steganography cryptographic engine</strong> engineered in Python 3.
+        <strong>Dual-layer image steganography & cryptography suite</strong> engineered in Python with an interactive graphical user interface.
       </p>
       <ul>
-        <li>🔬 <strong>Ridge & Minutiae Extraction</strong>: Gabor filtering and crossing-number algorithms detecting ridge bifurcations and endings.</li>
-        <li>🔐 <strong>Dual-Layer Steganography</strong>: Combines XOR key obfuscation with Least Significant Bit (LSB) carrier injection for covert message transmission.</li>
-        <li>⚡ <strong>Lossless Bit Fidelity</strong>: Preserves host image visual entropy while ensuring deterministic payload recovery.</li>
+        <li>🔐 <strong>Dual-Layer Bit Protection</strong>: Combines XOR key obfuscation with Least Significant Bit (LSB) carrier injection for covert message transmission.</li>
+        <li>🖼️ <strong>Lossless Bit Fidelity</strong>: Preserves host image visual entropy while ensuring deterministic payload recovery.</li>
+        <li>🖥️ <strong>Interactive GUI</strong>: Real-time carrier loading, bit-plane inspection, and instant decrypted payload extraction.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Bajiyadav/Finger-print"><img src="https://img.shields.io/badge/GitHub-Finger--print-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://github.com/Bajiyadav/stegno"><img src="https://img.shields.io/badge/GitHub-stegno-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
